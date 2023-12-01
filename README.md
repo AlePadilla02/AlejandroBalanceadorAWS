@@ -3,8 +3,8 @@
 # Índice
 1. [Introducción](#introducción)
 2. [Infraestructura](#infraestructura)
-   - [Instalación de Apache y PhP](#instalación-de-apache-y-php)
-   - [Configuración de Apache y PhP](#configuración-de-apache-y-php)
+   - [VPCs](#vpcs)
+   - [Subredes](#subredes)
 3. [Configuración de la máquina MariaDB](#configuración-de-la-máquina-mariadb)
    - [Instalación de MariaDB](#instalación-de-mariadb)
 4. [Resultado](#resultado)
