@@ -82,7 +82,7 @@
 
 ## Configuración de la base de datos
 
-#### Desde el balanceador, mandaremos vía scp la clave para poder conectarnos vía ssh. Una vez ahí, con los grupos de seguridad, estarán configurados para tener acceso a Internet para descargar mariadb-server, que una vez instalado se realizarán las configuraciones necesarias para quitarles el acceso a Internet:
+#### Desde el balanceador, mandaremos vía scp la clave para poder conectarnos vía ssh. Una vez ahí, con los grupos de seguridad, estarán configurados para tener acceso a Internet para descargar mariadb-server, que una vez instalado se realizarán las configuraciones necesarias para quitarle el acceso a Internet:
 ![image](https://github.com/AlePadilla02/AlejandroBalanceadorAWS/assets/146703765/a5027937-54a9-4c23-987b-96c9ef7fb8fe)
 ![image](https://github.com/AlePadilla02/AlejandroBalanceadorAWS/assets/146703765/ea076536-2fc1-4e95-a630-dc5c1b8479a8)
 ![image](https://github.com/AlePadilla02/AlejandroBalanceadorAWS/assets/146703765/a0326deb-5614-4e79-a5c4-1c6ccd032396)
@@ -120,11 +120,11 @@
 
 ## Conclusión
 
-#### En términos generales, esta infraestructura en AWS podría ser perfectamente lanzada con las configuraciones realizadas, siendo sencilla pero con facilidad expansión a la hora de añadir más servidores, ya que todo está segmentado por 2 subredes con las que se puede jugar bastante bien.
+#### En términos generales, esta infraestructura en AWS podría ser perfectamente lanzada con las configuraciones realizadas, siendo sencilla pero con fácil expansión a la hora de añadir más servidores, ya que todo está segmentado por 2 subredes con las que se puede jugar bastante bien.
 
 ## Vídeo
 
-#### Con este vídeo se comprobará que la aplicación funciona, recogiendo datos y visualizandolo en ambos Apache y que el balanceador haga su función de balancear cuando un servidor Apache está caído (se comprobará parando un Apache y luego el otro).
+#### Con este vídeo se comprobará que la aplicación funciona, recogiendo datos y visualizando la aplicación en ambos Apache y que el balanceador haga su función de balancear cuando un servidor Apache está caído (se comprobará parando un Apache y luego el otro).
 
 https://github.com/AlePadilla02/AlejandroBalanceadorAWS/assets/146703765/984ff95e-f75d-4bd7-bd07-e49485cb4524
 
