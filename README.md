@@ -110,7 +110,12 @@
 ![image](https://github.com/AlePadilla02/AlejandroBalanceadorAWS/assets/146703765/7e2f851a-012f-4146-ba1d-4ffa6fe8c25f)
 
 ## Conclusión
+#### En términos generales, esta infraestructura en AWS podría ser perfectamente lanzada con las configuraciones realizadas, siendo sencilla pero con facilidad expansión a la hora de añadir más servidores, ya que todo está segmentado por 2 subredes con las que se puede jugar bastante bien.
+
 ## Vídeo
+#### Con este vídeo se comprobará que la aplicación funciona, recogiendo datos y visualizandolo en ambos Apache y que el balanceador haga su función de balancear cuando un servidor Apache está caído (se comprobará parando un Apache y luego el otro).
+https://github.com/AlePadilla02/AlejandroBalanceadorAWS/assets/146703765/984ff95e-f75d-4bd7-bd07-e49485cb4524
+
 
 
 
