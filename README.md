@@ -4,13 +4,13 @@
 1. [Introducción](#introducción)
 2. [Infraestructura](#infraestructura)
    - [VPC](#vpc)
-   - [Subredes y Gateways](#subredes-y-gateway)
+   - [Subredes y Gateways](#subredes-y-gateways)
    - [Grupos de seguridad](#grupos-de-seguridad)
 3. [Configuración del balanceador](#configuración-del-balanceador)
-4. [Configuración de la base de datos](#configuracion-de-la-base-de-datos)
-5. [Configuración de los servidores Apache](#configruacio-de-los-servidores-apache)
-6. [Conclusión](#conclusion)
-7. [Vídeo](#video)
+4. [Configuración de la base de datos](#configuración-de-la-base-de-datos)
+5. [Configuración de los servidores Apache](#configruación-de-los-servidores-apache)
+6. [Conclusión](#conclusión)
+7. [Vídeo](#vídeo)
 
 ## Introducción
 #### En esta práctica se realizará el lanzamiento de una PilaLAMP en 3 niveles con 2 subredes, una pública y otra privada, en la capa 1 habrá un balanceador de carga con una subred pública con la IP (192.168.1.20) y en la capa 2 dos servidores Apache con las IPs (192.168.1.179 y 192.168.1.221) y una base de datos en la capa 3 con la IP (192.168.1.160) en la subred privada. Todo esto se realiza en un entorno de AWS, el cual se va a configurará previamente toda su infraestructura antes del lanzamiento de la aplicación web.
