@@ -3,12 +3,12 @@
 # Índice
 1. [Introducción](#introducción)
 2. [Infraestructura](#infraestructura)
-   - [VPC](#vpc)
+   - [VPC](#VPC)
    - [Subredes y Gateways](#subredes-y-gateways)
    - [Grupos de seguridad](#grupos-de-seguridad)
 3. [Configuración del balanceador](#configuración-del-balanceador)
 4. [Configuración de la base de datos](#configuración-de-la-base-de-datos)
-5. [Configuración de los servidores Apache](#configruación-de-los-servidores-apache)
+5. [Configuración de los servidores Apache](#configuración-de-los-servidores-apache)
 6. [Conclusión](#conclusión)
 7. [Vídeo](#vídeo)
 
